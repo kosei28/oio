@@ -36,6 +36,7 @@ pre span {
   color: #fff;
   background-color: #00f;
   border-radius: 0.6em;
+  padding: 0;
 }
 .value {
   display: inline-block;
